@@ -2,7 +2,11 @@
 test dev branch
 gogoogogogo
 
+<<<<<<< HEAD
 
 a new feature1
 
-feature1 add + master
+add master dev
+=======
+add master dev
+>>>>>>> feature1
